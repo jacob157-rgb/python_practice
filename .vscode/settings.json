@@ -1,0 +1,18 @@
+{
+    "editor.cursorBlinking": "phase",
+    "terminal.integrated.cursorBlinking": false,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.customGlyphs": false,
+    "terminal.integrated.gpuAcceleration": "off",
+    "python.languageServer": "Pylance",
+    "python.linting.pylintEnabled": false,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none"
+    },
+    "python.analysis.extraPaths": [
+        "",
+        "/Users/jacob/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.19-darwin-x64/stubs",
+        "/Users/jacob/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20221123/adafruit-circuitpython-bundle-py-20221123/lib"
+    ],
+    "circuitpython.board.version": null
+}
